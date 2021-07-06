@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234317228247",
+    "project_id": "deep-beanbag-318908",
+    "storage_bucket": "deep-beanbag-318908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234317228247:android:bad127031b8a925736e892",
+        "android_client_info": {
+          "package_name": "com.flutterflow.googlemapsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234317228247-28720llp5kgccqsdnon5fflupng9cpd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf6Ja1bJnCS29VP9dcieFkca7cJvtdonY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234317228247-28720llp5kgccqsdnon5fflupng9cpd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
